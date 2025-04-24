@@ -1,5 +1,4 @@
-# Project
-Loan Status Prediction System.
+# Loan Status Prediction System project.
 This is our Output. By using streamlit run app.py in app.py file.
 For Example
 PS C:\Users\hp\Desktop\loan> streamlit run app.py
